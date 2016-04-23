@@ -1,0 +1,28 @@
+Comandos de git
+
+ls
+pwd
+cd ..
+
+git status
+git log
+git add octofamily/octodog.txt
+$ git commit -m "borra ch 3"
+
+git push origin1 master
+$ git rm -r PHP\ and\ MySQL\ For\ Dummies\,\ 4th\ Edition
+$ git rm -r Chapter\ 33
+$ git commit -m "borra ch 3"
+
+$ git remote add origin1 https://github.com/ultimateFergal/prueba.git
+$ git remote -v
+$ git remote
+$ git remote remove origin
+
+
+git add {archivo o carpeta o archivo dentro carpeta con ruta}
+git commit -m {mensaje entre comillas}
+git push origin master
+
+los remote quedan creados en cada carpeta
+hacerlos cond diferente nombre de acuerdo a la carpeta
